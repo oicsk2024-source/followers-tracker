@@ -1,1 +1,9 @@
-
+{
+  "name": "sk-followers-tracker",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "googleapis": "^140.0.0",
+    "playwright": "^1.50.0"
+  }
+}
